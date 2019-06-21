@@ -1,1 +1,3 @@
-# JavaScript-Higher-Order-Functions
+# JS Array Methods
+
+## forEach, Filter, Map, Sort, Reduce
